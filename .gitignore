@@ -1,0 +1,17 @@
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Log files
+*.log
+error_log
+
+# PHP server temp files
+.phpunit.result.cache
